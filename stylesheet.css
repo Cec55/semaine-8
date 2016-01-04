@@ -90,3 +90,37 @@ iframe {
     height : 110px;
     float : left;
 }
+
+fieldset {
+    width: 84%;
+    margin-top : 30px;
+    border-radius : 10px;
+    background-color : rgba(74,170,230,0.5);
+    border : 2px solid blue;
+}
+
+legend, label {
+    color : blue;
+    font-family : "Arial", sans-serif;
+    font-size : 14px;
+    
+}
+
+legend {
+    border : 2px solid blue;
+    border-radius : 5px;
+    background-color : rgba(74,170,230,1.5);
+}
+
+#deuxieme {
+    margin-top : 20px;
+}
+
+#nom {
+    margin-left :18px;
+}
+
+
+#email {
+    margin-left : 15px;
+}
